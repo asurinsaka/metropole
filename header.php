@@ -18,7 +18,7 @@
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-3">
-        <img alt="METROPOLE LOGO" src="image/main_logo.png" style="width:300px;height:90px;">
+        <a href="index.php"><img alt="METROPOLE LOGO" src="image/main_logo.png" style="width:300px;height:90px;"></a>
       </div>
       <div class="col-md-9" id="box">
         <span >An Integrated Framework to Analyze Local Decision Making and
@@ -41,16 +41,16 @@
        <li class="dropdown">
          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Information <span class="caret"></span></a>
          <ul class="dropdown-menu">
-           <li><a href="#">Reports</a></li>
-           <li><a href="#">Publications</a></li>
-           <li><a href="#">Presentations</a></li>
+           <li><a href="information.php#">Reports</a></li>
+           <li><a href="information.php#articles">Publications</a></li>
+           <li><a href="information.php#presentations">Presentations</a></li>
            <li><a href="media.php">Media</a></li>
          </ul>
        </li>
        <li class="dropdown">
          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About <span class="caret"></span></a>
          <ul class="dropdown-menu">
-           <li><a href="#">Teams</a></li>
+           <li><a href="team.php">Teams</a></li>
            <li><a href="#">Partners</a></li>
          </ul>
        </li>
