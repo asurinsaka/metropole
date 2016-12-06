@@ -20,9 +20,9 @@
       <div class="col-md-3">
         <a href="index.php"><img alt="METROPOLE LOGO" src="image/main_logo.png" style="width:300px;height:90px;"></a>
       </div>
-      <div class="col-md-9" id="box">
+      <div class="col-md-9" id="header-box">
         <span >An Integrated Framework to Analyze Local Decision Making and
-          Adaptive Capacity to Large-Scale Environmental Change:</br>
+          Adaptive Capacity</br> to Large-Scale Environmental Change:
           Community Case Studies in Brazil, UK and the US </span>
       </div>
     </div>
