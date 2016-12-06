@@ -10,10 +10,37 @@
   </br>Our team included an external Advisory Board comprised of leading experts in each region. They provided invaluable perspectives on local, state and national legislative statues, municipal processes, risk communications, and local authority to creating/revising policy to generate public funds for resiliency improvements.
    Throughout the grant, our students, researchers, and municipal practitioners were engaged in dynamic discussions.</p>
     </div>
+
+    <div class="col-sm-12 thumbnail text-center" >
+
+
+        <img src="image/teammap.jpg" alt="Team map image" class="img-responsive">
+        <div class="caption">
+          <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"><h4><a href="#uk">United Kindom</a></h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
+          <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"><h4><a href="#"> </a></h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
+          <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"><h4><a href="#us">United States</a></h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
+          <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"><h4><a href="#"> </a></h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
+          <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"><h4><a href="#"> </a></h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
+          <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"><h4><a href="#"> </a></h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
+          <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"><h4><a href="#"> </a></h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
+          <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"><h4><a href="#"> </a></h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
+          <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"><h4><a href="#"> </a></h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
+          <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"><h4><a href="#"> </a></h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
+          <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"><h4><a href="#"> </a></h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
+          <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"><h4><a href="#"> </a></h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
+          <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"><h4><a href="#"> </a></h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
+          <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"><h4><a href="#brazil">Brazil</a></h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
+          <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"><h4><a href="#"> </a></h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
+
+
+        </div>
+
+    </div>
+
     <div class="well">
       <h2>Research Team Members </h2>
 
-      <h3>Brazil </h3>
+      <h3 id="brazil">Brazil </h3>
       <div class="row">
         <div class="col-md-4">
           <a href="http://www.bv.fapesp.br/en/pesquisador/741/jose-antonio-marengo-orsini/">
@@ -157,7 +184,7 @@
         </div>
       </div>
 
-    <h3>United Kingdom  </h3>
+    <h3 id="uk">United Kingdom  </h3>
     <div class="row">
       <div class="col-md-4">
         <h4>Co-InvestigatorMark Pelling, Professor, King’s College of London, Department of Geography</h4>
@@ -195,7 +222,7 @@
 
     </div>
 
-    <h3>United States of America  </h3>
+    <h3 id="us">United States of America  </h3>
     <div class="row">
       <div class="col-md-4">
         <h4>Project PIDr. Frank Muller-Karger, Professor USF College of Marine Science, Institute for Marine Remote Sensing (IMARS)</h4>
