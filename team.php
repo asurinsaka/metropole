@@ -14,7 +14,7 @@
     <div class="col-sm-12 thumbnail text-center" >
 
 
-        <img src="image/teammap.jpg" alt="Team map image" class="img-responsive">
+        <img src="image/teammap.png" alt="Team map image" class="img-responsive">
         <div class="caption">
           <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"><h4><a href="#uk">United Kindom</a></h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
           <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"><h4><a href="#"> </a></h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
