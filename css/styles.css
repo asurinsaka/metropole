@@ -148,6 +148,32 @@ li{
 
 }
 
+#name {
+  font-weight: bold;
+}
+
+#team .img-responsive {
+  margin: auto auto;
+  width: 100px;
+}
+
+.vcenter{
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+
+#team div#country {
+  background-color: #99C794;
+}
+
+#team #country, #team h2  {
+  text-align: center;
+}
+
+
+
+
 /* Large desktops and laptops */
 @media (min-width: 1200px) {
   .caption a{
