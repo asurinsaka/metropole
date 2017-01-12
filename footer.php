@@ -2,7 +2,7 @@
   </div>
 
 
-<div class="container-fluid">
+<div class="container-fluid" id=footer>
   <div class="row">
     <div class="col-md-12">
       <div id="footer-wrapper">
@@ -11,7 +11,7 @@
       </div>
     </div>
   </div>
-  <div class="row footer">
+  <div class="row " id="sponsors">
     <div class="col-md-1"></div>
     <div class="col-md-3 col-sm-4 col-xs-6">
       <p>METROPOLE AGENCY SPONSORS:</p>
@@ -25,7 +25,7 @@
     <div class="col-md-1 col-sm-4 col-xs-6 well" id="img"><img src="image/esrc.png" class="img-responsive" alt="Responsive image" ></div>
     <div class="col-md-1 "></div>
   </div>
-  <div class="row ">
+  <div class="row " id="info">
     <div class="col-md-1"></div>
     <div class="col-md-11">
       <p>

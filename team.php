@@ -64,7 +64,7 @@
                   echo '      <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>';
                   echo "    </a>";
                   echo '    </h4>';
-                  echo '    <h5 id="organization">' . $data[4] . "</h5>";
+                  echo '    <h5 id="organization"><strong>' . $data[4] . "</strong></h5>";
                   // echo '    <p><strong>Project Role:</strong> '. $data[5] . '</p>';
                   // echo '    <p><strong>Core Expertise and Interests:</strong> '. $data[6] . '</p>';
                   echo '    <p> '. $data[5] . '</p>';

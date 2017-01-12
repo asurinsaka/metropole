@@ -51,7 +51,7 @@
          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About <span class="caret"></span></a>
          <ul class="dropdown-menu">
            <li><a href="team.php">Teams</a></li>
-           <li><a href="#">Partners</a></li>
+           <li><a href="partners.php">Partners</a></li>
          </ul>
        </li>
      </ul>
