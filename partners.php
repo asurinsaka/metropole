@@ -52,8 +52,15 @@
       <h2>Community Study Areas</h2>
 
       <div class="row" id="country">
-        <div class="col-md-12">
-          <h3 id="us"><img alt="brazil_flag" src="image/brazil_flag.png" style="width:100px;height:60px;"> Santos, Brazil </h3>
+        <div class="col-md-3">
+        </div>
+        <div class="col-md-3">
+          <img alt="brazil_flag" src="image/brazil_flag.png" style="width:100px;height:60px;">
+        </div>
+        <div class="col-md-3">
+          <h3 id="us">   Santos, Brazil </h3>
+        </div>
+        <div class="col-md-3">
         </div>
       </div>
       <div class="row">
@@ -66,8 +73,15 @@
       </div>
 
       <div class="row" id="country">
-        <div class="col-md-12">
-          <h3 id="us"><img alt="uk_flag" src="image/uk_flag.png" style="width:100px;height:60px;">Selsey, UK </h3>
+        <div class="col-md-3">
+        </div>
+        <div class="col-md-3">
+          <img alt="uk_flag" src="image/uk_flag.png" style="width:100px;height:60px;">
+        </div>
+        <div class="col-md-3">
+           <h3 id="us">   Selsey, UK </h3>
+        </div>
+        <div class="col-md-3">
         </div>
       </div>
 
@@ -82,8 +96,15 @@
 
 
       <div class="row" id="country">
-        <div class="col-md-12">
-          <h3 id="us"><img alt="us_flag" src="image/us_flag.png" style="width:100px;height:60px;">Broward County, FL, US</h3>
+        <div class="col-md-3">
+        </div>
+        <div class="col-md-3">
+          <img alt="us_flag" src="image/us_flag.png" style="width:100px;height:60px;">
+        </div>
+        <div class="col-md-3">
+          <h3 id="us">Broward County, FL, US</h3>
+        </div>
+        <div class="col-md-3">
         </div>
       </div>
       <div class="row">
