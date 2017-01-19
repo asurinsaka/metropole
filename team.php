@@ -1,8 +1,8 @@
 <?php include('header.php'); ?>
-<h5>About</h5>
+<!-- <h5>About</h5> -->
 <div class="row">
   <div class="col-md-8">
-    <div class="well">
+    <div class="container-fluid">
       <h1>Team</h1>
       <p>The international METROPOLE transdisciplinary applied research initiative was created and implemented by a team of researchers and practitioners in Brazil, the UK and the US.
   Our team members include natural scientists (climate modelling/meteorology,) inter-disciplinary scientists (economic/finance), social scientists (human dimensions of risk and urban disasters, science communications), and practitioners with a range of expertise (civil engineering, disaster planning.)
@@ -14,22 +14,22 @@
     <div class="col-sm-12 thumbnail text-center" >
 
 
-        <img src="image/teammap.png" alt="Team map image" class="img-responsive">
+        <img src="image/teammap.jpg" alt="Team map image" class="img-responsive">
         <div class="caption">
-          <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"><h4><a href="#uk">United Kindom</a></h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
+          <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"><h4><a href="#uk">Selsey, UK</a></h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
           <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"><h4><a href="#"> </a></h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
-          <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"><h4><a href="#us">United States</a></h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
+          <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"><h5><a href="#us">Broward County, FL, US</a></h5></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
+          <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"><h4><<a href="#brazil">Santos, Brazil</a></h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
           <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"><h4><a href="#"> </a></h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
-          <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"><h4><a href="#"> </a></h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
-          <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"><h4><a href="#"> </a></h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
-          <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"><h4><a href="#"> </a></h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
-          <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"><h4><a href="#"> </a></h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
+          <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"><h4></h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
           <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"><h4><a href="#"> </a></h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
           <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"><h4><a href="#"> </a></h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
+          <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"><h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
           <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"><h4><a href="#"> </a></h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
           <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"><h4><a href="#"> </a></h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
           <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"><h4><a href="#"> </a></h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
-          <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"><h4><a href="#brazil">Brazil</a></h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
+          <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"><h4><a href="#"> </a></h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
+          <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"><h4></h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
           <div class="row"><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"><h4><a href="#"> </a></h4></div><div class="col-xs-2"></div><div class="col-xs-2"></div><div class="col-xs-2"></div></div>
 
 
@@ -49,8 +49,8 @@
                 //     echo $data[$c] . "<br />\n";
                 // }
                 if ($data[0] == $country){
-                  echo '<div class="row" >';
-                  echo '  <div class="col-sm-4 vcenter">';
+                  echo '<div class="row vertical-align" >';
+                  echo '  <div class="col-sm-4">';
 
                   if (file_exists ('image/'.$data[1].'.jpg' )){
                       echo '  <img src="image/' . $data[1] . '.jpg" alt="Team image" class="img-responsive">';

@@ -6,6 +6,11 @@ p {
   font-size: 16px;
 }
 
+.whitebg{
+  background: rgb(255,255,255);
+  border-color: white;
+}
+
 .nav.nav-pills>li>a {
     width: 170px;
 }
@@ -113,23 +118,22 @@ p {
 }*/
 
 /*for global footer*/
-/*#footer{
-  background-color: #A7ADBA;
-}*/
+#footer{
+  font-size: 16px;
+  font-weight: bold;
+}
 
 #sponsors img{
   height:50px;
   margin: 0 auto;
 }
-
+/*
 #sponsors div{
   display: inline-block;
   vertical-align: middle;
   float: none;
-}
+}*/
 #sponsors{
-  font-size: 16px;
-  font-weight: bold;
   margin: 0 auto;
 
 }
@@ -166,6 +170,11 @@ li{
   width: 100px;
 }
 
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
+
 .vcenter{
     display: inline-block;
     vertical-align: middle;
@@ -198,7 +207,10 @@ li{
 
 #partners div#country {
   background-color: #99C794;
+  height: 10px;
 }
+
+.top-buffer { margin-top:20px; }
 
 #partners #country, #partners h2  {
   text-align: center;

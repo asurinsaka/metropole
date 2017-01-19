@@ -1,11 +1,9 @@
 <?php include('header.php'); ?>
-  <h5>METROPOLE Project Information</h5>
+  <!-- <h5>METROPOLE Project Information</h5> -->
   <div class="row">
-
-
     <div class="col-md-8">
 
-      <div class="well">
+      <div class="container-fluid">
 
         <h2 id="articles">Articles</h2>
         <ul>

@@ -1,9 +1,9 @@
 
 <?php include('header.php'); ?>
-<h5>METROPOLE Project Information > Media</h5>
+<!-- <h5>METROPOLE Project Information > Media</h5> -->
   <div class="row">
     <div class="col-md-8">
-      <div class="well">
+      <div class="container-fluid">
 
         <h1>Media</h1>
         <h3>Revista Fapesp:</h3>
