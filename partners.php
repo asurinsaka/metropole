@@ -1,39 +1,37 @@
 <?php include('header.php'); ?>
 <!-- <h5>About</h5> -->
 <div class="container-fluid">
-  <div class="col-md-8">
-    <div class="well whitebg">
-      <h3>METROPOLE Municipal Partners -- Active Research Collaborators</h3>
+  <div class="row">
+    <div class="col-md-8">
+        <h3>METROPOLE Municipal Partners -- Active Research Collaborators</h3>
 
-      <p>The integrated Metropole research framework was designed to reflect the
-         practices and processes of a typical municipal planning project to
-         assess local flooding risks and impacts.</p>
+        <p>The integrated Metropole research framework was designed to reflect the
+           practices and processes of a typical municipal planning project to
+           assess local flooding risks and impacts.</p>
 
-      <p>In each country, our teams met regularly with staff members from local
-          municipal environmental planning and engineering departments and
-          appointed officials throughout the planning and implementation stages.
-          </p>
+        <p>In each country, our teams met regularly with staff members from local
+            municipal environmental planning and engineering departments and
+            appointed officials throughout the planning and implementation stages.
+            </p>
 
-      <p>The partners added highly specialized knowledge to technical
-          assessments. They were actively involved in selecting the local study
-           areas, identifying the sea level rise forecasts used by regional
-            authorities, and supporting data acquisition and analysis. They
-            worked with the COAST modeling team to discuss feasible adaptation
-            options and parameters to use in the cost-benefit modeling. They
-            also coordinated the outreach for the two workshops, and presented
-            at and hosted two Metropole workshops.</p>
+        <p>The partners added highly specialized knowledge to technical
+            assessments. They were actively involved in selecting the local study
+             areas, identifying the sea level rise forecasts used by regional
+              authorities, and supporting data acquisition and analysis. They
+              worked with the COAST modeling team to discuss feasible adaptation
+              options and parameters to use in the cost-benefit modeling. They
+              also coordinated the outreach for the two workshops, and presented
+              at and hosted two Metropole workshops.</p>
 
-      <img alt="partners LOGO" src="image/partners.png" class="img-responsive" >
+        <img alt="partners LOGO" src="image/partners.png" class="img-responsive" >
     </div>
+    <div class="col-md-4">
+      <div class="well">
+        <p><em>METROPOLE partners included local elected and appointed officials and municipal staff with expertise in coastal engineering, environmental protection, sustainability, growth management and urban planning.</em></p>
 
-  </div>
-  <div class="col-md-4">
-    <div class="well">
-      <p><em>METROPOLE partners included local elected and appointed officials and municipal staff with expertise in coastal engineering, environmental protection, sustainability, growth management and urban planning.</em></p>
-
+      </div>
     </div>
   </div>
-</div>
     <div class="well" >
       <div class="row vertical-align" >
         <div class="col-lg-4 " >
@@ -41,7 +39,7 @@
         </div>
         <div class="col-lg-8" >
           <div>
-            <h2>American Planning Association – Florida Chapter</h2>
+            <h3>American Planning Association – Florida Chapter</h3>
             <p>The Florida Chapter of the American Planning Association (APA Florida) is a non-profit organization of professionals, students, and allied professionals providing vision and leadership for the future development and redevelopment of Florida communities. APA Florida has over 2,600 members, making it the second largest APA Chapter in the country. Members of APA Florida work in the public and private sector; for Federal, state, and local government; in long-range planning and development review; in master planning, as well as site planning; in transportation planning, land use planning, environmental planning, school planning, design, and in many other capacities.</p>
 
             <p>As an NSF-funded partner in the Metropole project, APA Florida advised the research teams in the development of assessment tools and participated in US workshops. APA Florida is working with the scientists to adapt the research findings to support member and practitioner continuing education and co-develop educational materials and webinars in 2017.</p>
