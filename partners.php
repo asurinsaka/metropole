@@ -1,5 +1,5 @@
 <?php include('header.php'); ?>
-<!-- <h5>About</h5> -->
+<div class="location">About > Partners</div>
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-8">
@@ -54,20 +54,21 @@
       <div class="row" id="country">
       </div>
 
-      <div class="row top-buffer">
+      <div class="row top-buffer ">
         <div class="col-md-4">
           <img alt="Santos" src="image/Santos_map.png" class="img-responsive">
         </div>
         <div class="col-md-8">
-          <div class="row">
-            <div class="col-md-3">
-              <img alt="brazil_flag" src="image/brazil_flag.png" style="width:100px;height:60px;">
+          <div class="row vertical-align">
+
+            <div class="col-md-2">
+              <img alt="brazil_flag" src="image/brazil_flag.png" style="width:50px;height:30px;">
             </div>
             <div class="col-md-3">
               <h3 id="us">   Santos, Brazil </h3>
             </div>
           </div>
-          <div class="row top-buffer">
+          <div class="row top-buffer ">
             <p>The City of Santos is the main city in the Metropolitan Area of Santos (RMBS) in the State of São Paulo. The region is a strategic economic centre, with a large concentration of industries along the coastal zone and home to the largest port on South America’s Atlantic Coast.Tourism is also an important economic activity: some municipalities are among the most sought after areas as tourist destinations in Brazil. In contrast, the region has large deficits in infrastructure and about 16% of the population live on unstable slopes of the Serra do Mar, which are highly susceptible to landslides and floods. Santos is a portrait of the social asymmetry of the country, featuring upscale neighbourhoods, especially near the oceanfront and a few kilometres away are favelas and neighbourhoods where living conditions are very poor. Thus, the study focused on two zones – one in the Southeast and one in the Northwest, reflecting diverse socio-economic conditions and flood risks.</p>
           </div>
         </div>
@@ -76,14 +77,15 @@
       <div class="row" id="country">
       </div>
 
-      <div class="row top-buffer">
+      <div class="row top-buffer ">
         <div class="col-md-4">
           <img alt="Selsey" src="image/Selsey_map.png" class="img-responsive">
         </div>
         <div class="col-md-8">
-          <div class="row">
-            <div class="col-md-3">
-              <img alt="uk_flag" src="image/uk_flag.png" style="width:100px;height:60px;">
+          <div class="row vertical-align">
+
+            <div class="col-md-2">
+              <img alt="uk_flag" src="image/uk_flag.png" style="width:50px;height:30px;">
             </div>
             <div class="col-md-3">
                <h3 id="us">   Selsey, UK </h3>
@@ -103,9 +105,10 @@
           <img alt="Miami" src="image/Miami_map.png" class="img-responsive">
         </div>
         <div class="col-md-8">
-          <div class="row">
-            <div class="col-md-3">
-              <img alt="us_flag" src="image/us_flag.png" style="width:100px;height:60px;">
+          <div class="row vertical-align">
+
+            <div class="col-md-2">
+              <img alt="us_flag" src="image/us_flag.png" style="width:50px;height:30px;">
             </div>
             <div class="col-md-5">
               <h3 id="us">Broward County, FL, US</h3>

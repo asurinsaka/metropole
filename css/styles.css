@@ -15,7 +15,10 @@ p {
     width: 170px;
 }
 
-
+.location {
+  font-size: 20px;
+  color: darkblue;
+}
 
 #header-box {
   font-size: 18px;
