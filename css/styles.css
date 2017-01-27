@@ -99,13 +99,13 @@ p {
   /* Remove the padding we set earlier */
   .masthead,
   .marketing,
-  .footer {
+  footer {
     padding-right: 0;
     padding-left: 0;
   }
 }
 
-#footer-wrapper {
+footer #wrapper {
   height:50px;
 
 }
@@ -121,9 +121,8 @@ p {
 }*/
 
 /*for global footer*/
-#footer{
+footer{
   font-size: 16px;
-  font-weight: bold;
 }
 
 #sponsors img{
@@ -138,7 +137,6 @@ p {
 }*/
 #sponsors{
   margin: 0 auto;
-
 }
 
 
@@ -208,7 +206,7 @@ li{
     float:none;
 }
 
-#partners div#country {
+section>.wrapper {
   background-color: #99C794;
   height: 10px;
 }

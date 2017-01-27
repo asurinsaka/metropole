@@ -1,6 +1,6 @@
 
 <?php include('header.php'); ?>
-<!-- <h5>METROPOLE Project Information > Media</h5> -->
+  <div class="location">Project Information > Media</div>
   <div class="row">
     <div class="col-md-8">
       <div class="container-fluid">

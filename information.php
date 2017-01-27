@@ -1,5 +1,5 @@
 <?php include('header.php'); ?>
-  <!-- <h5>METROPOLE Project Information</h5> -->
+  <div class="location">Project Information</div>
   <div class="row">
     <div class="col-md-8">
 
