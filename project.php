@@ -3,7 +3,7 @@
 <div class="row">
   <div class="col-md-8">
     <div class="container-fluid">
-      <article>
+
         <h1>Advancing International Adaptation Research While Supporting Community-Driven Planning</h1>
         <p>The international METROPOLE research project brought together social, economic, environmental scientists and local practitioners to assess the socio-economic and cultural factors which influence resiliency planning and adaptive capacity among local institutions in three study areas in Brazil, the UK and the US.</p>
 
