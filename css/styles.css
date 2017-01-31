@@ -123,6 +123,7 @@ footer #wrapper {
 /*for global footer*/
 footer{
   font-size: 16px;
+  margin-top:20px;
 }
 
 #sponsors img{
@@ -176,11 +177,12 @@ li{
     align-items: center;
 }
 
+/*this not working
 .vcenter{
     display: inline-block;
     vertical-align: middle;
     float:none;
-}
+}*/
 
 #team div#country {
   background-color: #99C794;
@@ -207,6 +209,7 @@ li{
 }
 
 section>.wrapper {
+  margin-top:20px;
   background-color: #99C794;
   height: 10px;
 }

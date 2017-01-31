@@ -36,9 +36,10 @@
          <li class="dropdown">
            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Research <span class="caret"></span></a>
            <ul class="dropdown-menu">
-             <li><a href="research.php#aci">ACI</a></li>
-             <li><a href="research.php#coast">COAST</a></li>
-             <li><a href="research.php#survey">Survey</a></li>
+             <li><a href="research.php">Overview</a></li>
+             <li><a href="aci.php">ACI</a></li>
+             <li><a href="coast.php">COAST</a></li>
+             <li><a href="survey.php">Survey</a></li>
            </ul>
          </li>
          <li class="dropdown">

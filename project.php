@@ -63,11 +63,12 @@
 
     <section>
       <div class="wrapper" ></div>
-      <div class="row top-buffer ">
-        <div class="col-md-4">
+      <div class="row top-buffer vertical-align">
+        <div class="col-md-4 ">
+          <div><a href="http://www.floridaplanning.org"><img alt="APA FL LOGO" src="image/APA_FL_logo.png" style="width:300px;height:90px;"></a></div>
           <!-- <img alt="Selsey" src="image/Selsey_map.png" class="img-responsive"> -->
         </div>
-        <div class="col-md-8">
+        <div class="col-md-8 ">
           <div class="row ">
             <div class="col-md-12">
                <h3> Continuing Education for Practitioners</h3>
