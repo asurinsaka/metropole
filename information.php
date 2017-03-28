@@ -8,7 +8,7 @@
         <h2 id="articles">Articles</h2>
         <ul>
           <li>
-            Paterson S., Pelling M., Hidalgo Nunes L., de Araújo Moreira F., Guida K., Marengo J., "Size does matter: city scale and the asymmetries of climate change adaptation in three coastal towns." Geoforum Journal (submitted Oct 2016)
+            Paterson S., Pelling M., Hidalgo Nunes L., de Araújo Moreira F., Guida K., Marengo J., "Size does matter: city scale and the asymmetries of climate change adaptation in three coastal towns." Geoforum Journal Volume 81, 2017, Pages 109–119 <a href="http://dx.doi.org/10.1016/j.geoforum.2017.02.014">http://dx.doi.org/10.1016/j.geoforum.2017.02.014</a>
           </li>
           <li>
             Merrill S., Kartez, J., Langbehn, K., Muller-Karger, F., Reynolds, C., "Identifying Stakeholder Values and Priorities for Adaptation Planning and Finance: A Florida Case Study", Journal of Environmental Values (submitted Oct 2016)
@@ -19,6 +19,12 @@
         </ul>
 
         <h2 id="presentations">Presentations and Posters</h2>
+        <h3>2017</h3>
+        <ul>
+          <li>
+            <a href="files/Torres_posterMETROPOLE_3-17_v5.pdf">The Role of Societal Values in Community Adaptation to Natural Hazard Risks: Highlights from an International Case Study. Torres, H., Muller-Karger, F., Kartez, J., Pelling, M., Marengo, J., and Reynolds, C.J. (March 20, 2017). Poster Presentation, University of South Florida Graduate Research Symposium. Tampa, Florida. </a>
+          </li>
+        </ul>
         <h3>2016</h3>
         <ul>
           <li>

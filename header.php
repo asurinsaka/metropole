@@ -20,10 +20,10 @@
     <header>
       <div class="row">
         <div class="col-md-3">
-          <a href="index.php"><img alt="METROPOLE LOGO" src="image/main_logo.png" style="width:300px;height:90px;"></a>
+          <a href="index.php"><img class="img-responsive" alt="METROPOLE LOGO" src="image/main_logo.png" style="width:300px;height:90px;"></a>
         </div>
         <div class="col-md-9" id="header-box">
-          <span >An Integrated Framework to Analyze Local Decision Making and
+          <span>An Integrated Framework to Analyze Local Decision Making and
             Adaptive Capacity</br> to Large-Scale Environmental Change:
             Community Case Studies in Brazil, UK and the US </span>
         </div>
