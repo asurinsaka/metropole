@@ -33,9 +33,11 @@ p {
 .container-fluid{
   margin-right: auto;
   margin-left: auto;
-  max-width: 1200px; /* or 950px */
+  max-width: 1040px; /* or 950px */
 }
 
+
+.navbar {min-height:32px !important}
 /* Customize the nav-justified links to be fill the entire space of the .navbar */
 
 .nav-justified {
@@ -44,8 +46,9 @@ p {
   border-radius: 5px;
 }
 .nav-justified > li > a {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+
   margin-bottom: 0;
   font-weight: bold;
   font-size: 15px;

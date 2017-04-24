@@ -8,13 +8,13 @@
         <h2 id="articles">Articles</h2>
         <ul>
           <li>
+            Marengo J, Nunes LH, Souza CR, Harari J, Muller-Karger F, Greco R, Hosokawa E, Tabushi E, Merril SB, Reynolds CJ, Pelling M, Alves L, Aragao L, Chou SC, Moreira F, Paterson S, Lockman J, Gray A. "A Globally-Deployable Strategy for Co-Development of Adaptation Preferences to Sea-Level Rise: The Public Participation Case of Santos, Brazil", Natural Hazards." Natural Hazards, 09 April 2017, <a href="https://link.springer.com/article/10.1007/s11069-017-2855-x">DOI 10.1007/s11069-017-2855-x</a> 
+          </li>
+          <li>
             Paterson S., Pelling M., Hidalgo Nunes L., de Araújo Moreira F., Guida K., Marengo J., "Size does matter: city scale and the asymmetries of climate change adaptation in three coastal towns." Geoforum Journal Volume 81, 2017, Pages 109–119 <a href="http://dx.doi.org/10.1016/j.geoforum.2017.02.014">http://dx.doi.org/10.1016/j.geoforum.2017.02.014</a>
           </li>
           <li>
             Merrill S., Kartez, J., Langbehn, K., Muller-Karger, F., Reynolds, C., "Identifying Stakeholder Values and Priorities for Adaptation Planning and Finance: A Florida Case Study", Journal of Environmental Values (submitted Oct 2016)
-          </li>
-          <li>
-            Marengo J, Nunes LH, Souza CR, Harari J, Muller-Karger F, Greco R, Hosokawa E, Tabushi E, Merril SB, Reynolds CJ, Pelling M, Alves L, Aragao L, Chou SC, Moreira F, Paterson S, Lockman J, Gray A (2016) Public Participatory Approach to Defining Adaptation Measures in Sea-Level Rise Scenarios: The Case of Santos, Brazil, Natural Hazards,  (submitted Oct 2016
           </li>
         </ul>
 
