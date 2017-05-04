@@ -18,7 +18,8 @@
 
   <div class="container-fluid">
     <header>
-      <div class="row">
+      <!-- old text header -->
+      <!-- <div class="row">
         <div class="col-md-3">
           <a href="index.php"><img class="img-responsive" alt="METROPOLE LOGO" src="image/main_logo.png" style="width:300px;height:90px;"></a>
         </div>
@@ -26,6 +27,12 @@
           <span>An Integrated Framework to Analyze Local Decision Making and
             Adaptive Capacity</br> to Large-Scale Environmental Change:
             Community Case Studies in Brazil, UK and the US </span>
+        </div>
+      </div> -->
+
+      <div class="row">
+        <div class="col-md-12">
+          <a href="index.php"><img class="img-responsive" alt="global header" src="image/met_global_header.jpg"></a>  
         </div>
       </div>
 

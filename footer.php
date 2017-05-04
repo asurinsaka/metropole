@@ -2,6 +2,7 @@
   </div>
 
 <footer>
+
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-12">
@@ -11,7 +12,18 @@
         </div>
       </div>
     </div>
-    <div class="row" >
+
+    <div class="row">
+      <div class="col-md-12">
+        <img class="img-responsive" alt="team logo" src="image/partner_logos.jpg" style="width:1040px">
+
+        <img class="img-responsive" alt="global footer" src="image/fund_global_footer.jpg" style="width:1040px">
+
+      </div>
+    </div>
+    <!-- old text footer -->
+
+    <!-- <div class="row" >
       <div class="col-sm-4">
         <a href="http://www.usf.edu"><img src="image/USF_logo.jpg" class="image-responsive" alt="USF_logo" style="width:200px;height:120px;"></a>
         <p><b><a href="http://www.marine.usf.edu">College Of Marine Science</a></b></p>
@@ -43,15 +55,8 @@
         </div>
       </div>
 
-
-        <!-- <div class="row " id="info">
-          <div class="col-md-1"></div>
-          <div class="col-md-11">
-
-          </div>
-        </div> -->
       </div>
-    </div>
+    </div> -->
   </footer>
 </body>
 </html>
