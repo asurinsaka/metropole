@@ -15,9 +15,9 @@
 
     <div class="row">
       <div class="col-md-12">
-        <img class="img-responsive" alt="team logo" src="image/partner_logos.jpg" style="width:1040px">
 
-        <img class="img-responsive" alt="global footer" src="image/fund_global_footer.jpg" style="width:1040px">
+
+        <img class="img-responsive" alt="global footer" src="image/fund_global_footer.jpg" style="width:936px">
 
       </div>
     </div>

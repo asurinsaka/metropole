@@ -1,6 +1,13 @@
 <?php include('header.php'); ?>
 <div class="row">
   <div class="col-md-12">
+    <div class="slide">
+      <img class="mySlides" src="image/slide/banner_fin_workshops.jpg" style="width:100%">
+      <img class="mySlides" src="image/slide/banner_fin_areas.jpg" style="width:100%">
+      <img class="mySlides" src="image/slide/banner_fin_city_logos.jpg" style="width:100%">
+      <img class="mySlides" src="image/slide/banner_fin_research.jpg" style="width:100%">
+      <img class="mySlides" src="image/slide/banner_fin_people.jpg" style="width:100%">
+    </div>
     <h1>Advancing International Adaptation Research and Local Planning Methods in Coastal Communities  </h1>
       <p>Coastal communities – from small towns to major metropolis -- face increasing management and fiscal challenges. Innovations in collaborative research action are needed to transform governance and community engagement practices to better mobilize our communities.</p>
 
@@ -24,6 +31,12 @@
           <p><a href="http://cbe.miis.edu/joce/vol3/iss2/4/" target="_blank">Climate Adaptation Finance Mechanisms: New Frontiers For Familiar Tools</a>, <i>Journal of Ocean and Coastal Economics</i>.</p>
           <p><strong>Collaborations between universities, private sector and local government deliver tangible benefits to society – locally and globally.</strong></p>
         </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <img class="img-responsive" alt="team logo" src="image/partner_logos.jpg" style="width:936px">
+        </div>
+
       </div>
   </div>
 

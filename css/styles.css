@@ -107,6 +107,9 @@ p {
     padding-left: 0;
   }
 }
+.img-responsive {
+  margin: auto auto;
+}
 
 footer #wrapper {
   height:50px;
