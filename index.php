@@ -1,13 +1,43 @@
 <?php include('header.php'); ?>
+<!-- Start WOWSlider.com HEAD section -->
+<link rel="stylesheet" type="text/css" href="engine1/style.css" />
+<script type="text/javascript" src="engine1/jquery.js"></script>
+<!-- End WOWSlider.com HEAD section -->
+<!-- Start WOWSlider.com BODY section -->
+<div id="wowslider-container1">
+<div class="ws_images"><ul>
+		<li><img src="data1/images/banner_fin_workshops.jpg" alt="Multiple stakeholder workshops in each country" title="Multiple stakeholder workshops in each country" id="wows1_0"/></li>
+		<li><img src="data1/images/banner_fin_areas.jpg" alt="Broward County, Florida, Santos, Brazil and Selsey, UK" title="Broward County, Florida, Santos, Brazil and Selsey, UK" id="wows1_1"/></li>
+		<li><img src="data1/images/banner_fin_city_logos.jpg" alt="Active municipal partners in Brazil, UK and US
+" title="Active municipal partners in Brazil, UK and US
+" id="wows1_2"/></li>
+		<li><a href="http://wowslider.com"><img src="data1/images/banner_fin_research.jpg" alt="bootstrap carousel" title="Calculating sea level rise damage estimates" id="wows1_3"/></a></li>
+		<li><img src="data1/images/banner_fin_people.jpg" alt="Identifying values that influence adaptation planning" title="Identifying values that influence adaptation planning" id="wows1_4"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title="Multiple stakeholder workshops in each country"><span><img src="data1/tooltips/banner_fin_workshops.jpg" alt="Multiple stakeholder workshops in each country"/>1</span></a>
+		<a href="#" title="Broward County, Florida, Santos, Brazil and Selsey, UK"><span><img src="data1/tooltips/banner_fin_areas.jpg" alt="Broward County, Florida, Santos, Brazil and Selsey, UK"/>2</span></a>
+		<a href="#" title="Active municipal partners in Brazil, UK and US
+"><span><img src="data1/tooltips/banner_fin_city_logos.jpg" alt="Active municipal partners in Brazil, UK and US
+"/>3</span></a>
+		<a href="#" title="Calculating sea level rise damage estimates"><span><img src="data1/tooltips/banner_fin_research.jpg" alt="Calculating sea level rise damage estimates"/>4</span></a>
+		<a href="#" title="Identifying values that influence adaptation planning"><span><img src="data1/tooltips/banner_fin_people.jpg" alt="Identifying values that influence adaptation planning"/>5</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.com">http://wowslider.com/</a> by WOWSlider.com v8.7.1m</div>
+<div class="ws_shadow"></div>
+</div>
+<script type="text/javascript" src="engine1/wowslider.js"></script>
+<script type="text/javascript" src="engine1/script.js"></script>
+<!-- End WOWSlider.com BODY section -->
 <div class="row">
   <div class="col-md-12">
-    <div class="slide">
+    <!-- old slides -->
+    <!-- <div class="slide">
       <img class="mySlides" src="image/slide/banner_fin_workshops.jpg" style="width:100%">
       <img class="mySlides" src="image/slide/banner_fin_areas.jpg" style="width:100%">
       <img class="mySlides" src="image/slide/banner_fin_city_logos.jpg" style="width:100%">
       <img class="mySlides" src="image/slide/banner_fin_research.jpg" style="width:100%">
       <img class="mySlides" src="image/slide/banner_fin_people.jpg" style="width:100%">
-    </div>
+    </div> -->
     <h1>Advancing International Adaptation Research and Local Planning Methods in Coastal Communities  </h1>
       <p>Coastal communities – from small towns to major metropolis -- face increasing management and fiscal challenges. Innovations in collaborative research action are needed to transform governance and community engagement practices to better mobilize our communities.</p>
 
