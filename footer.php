@@ -33,14 +33,6 @@
             <div class="col-md-2 col-sm-4 col-xs-6" id="img"><img src="image/nerc.png" class="img-responsive" alt="Responsive image" ></div>
             <div class="col-md-2 col-sm-4 col-xs-6" id="img"><img src="image/esrc.png" class="img-responsive" alt="Responsive image" ></div>
           </div>
-        </div>
-        <div class="col-sm-4">
-          <a href="http://www.usf.edu"><img src="image/usf-h-green.png" class="image-responsive" alt="USF_logo" style="width:333px;height:50px;"></a>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-8">
-          <!-- <p><b>METROPOLE AGENCY SPONSORS</b></p> -->
           <p style="margin-left:16px; ">
             <b>
               </br>
@@ -51,8 +43,10 @@
             </b>
           </p>
         </div>
-        <div class="col-md-4">
+        <div class="col-sm-4">
+          <a href="http://www.usf.edu"><img src="image/usf-h-green.png" class="image-responsive" alt="USF_logo" style="width:333px;height:50px;"></a>
           <b>
+            </br>
             </br>
             METROPOLE website managed by</br>
             USF College of Marine Science,</br>
