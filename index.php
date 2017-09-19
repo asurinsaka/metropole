@@ -56,10 +56,14 @@
       <div class="row">
         <div class="col-md-12">
           <p><strong>Read Our Latest Articles</strong></p>
-          <p><a href="https://link.springer.com/article/10.1007/s11069-017-2855-x" target="_blank">A Globally-Deployable Strategy for Co-Development of Adaptation Preferences to Sea-Level Rise: The Public Participation Case of Santos, Brazil</a>, <i>Natural Hazards</i>, April 2017.</p>
-          <p><a href="http://www.sciencedirect.com/science/article/pii/S0016718517300507" target="_blank">Size does matter: city scale and the asymmetries of climate change adaptation in three coastal towns</a>, <i>Geoforum Journal</i>, January 2017.</p>
-          <p><a href="http://cbe.miis.edu/joce/vol3/iss2/4/" target="_blank">Climate Adaptation Finance Mechanisms: New Frontiers For Familiar Tools</a>, <i>Journal of Ocean and Coastal Economics</i>.</p>
-          <p><strong>Collaborations between universities, private sector and local government deliver tangible benefits to society – locally and globally.</strong></p>
+	  			<p>
+						<a href="http://file.scirp.org/Html/11-2360499_77255.htm">"An Integrated Framework to Analyze Local Decision Making and Adaptation to Sea Level Rise in Coastal Regions in Selsey (UK), Broward County (USA), and Santos
+		  (Brazil)".</a> American Journal of Climate Change, 2017.
+					</p>
+					<p><a href="https://link.springer.com/article/10.1007/s11069-017-2855-x" target="_blank">A Globally-Deployable Strategy for Co-Development of Adaptation Preferences to Sea-Level Rise: The Public Participation Case of Santos, Brazil</a>, <i>Natural Hazards</i>, April 2017.</p>
+					<p><a href="http://www.sciencedirect.com/science/article/pii/S0016718517300507" target="_blank">Size does matter: city scale and the asymmetries of climate change adaptation in three coastal towns</a>, <i>Geoforum Journal</i>, January 2017.</p>
+					<p><a href="http://cbe.miis.edu/joce/vol3/iss2/4/" target="_blank">Climate Adaptation Finance Mechanisms: New Frontiers For Familiar Tools</a>, <i>Journal of Ocean and Coastal Economics</i>.</p>
+					<p><strong>Collaborations between universities, private sector and local government deliver tangible benefits to society – locally and globally.</strong></p>
         </div>
       </div>
       <div class="row">
