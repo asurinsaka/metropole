@@ -69,7 +69,7 @@
 				<p>American Planning Association -- Florida Chapter</p>
 				<p>Annual Conference session Sept. 7, 8:30-9:45, 2017</p>
 				<p>
-					<a href="files/Sept 7 830 METROPOLE.pdf">"Working with Social Factors and Values to Support Adaptation Planning and Public Finance"</a>
+					<a href="files/Sept 7 2017 830 METROPOLE.pdf">"Working with Social Factors and Values to Support Adaptation Planning and Public Finance"</a>
 				</p>
 			</div>
 		</div>
