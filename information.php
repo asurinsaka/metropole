@@ -2,20 +2,30 @@
   <div class="location">Project Information</div>
   <div class="row">
     <div class="col-md-8">
-
       <div class="container-fluid">
-
         <h2 id="articles">Articles</h2>
+        <h3>2017</h3>
         <ul>
+          <li>
+              Marengo, J; Muller-Karger, F; Pelling, M; Reynolds, CJ; Merrill, SB; Nunes, LH; Paterson, S; Gray, Lockman, JT; Kartez, J; Moreira, FA; Greco, R; Harari, J. Souza, CR Alves, LM; Hosokawa, EK; Tabuchi, RK "An Integrated Framework to Analyze Local Decision Making and Adaptation to Sea Level Rise in Coastal Regions in Selsey (UK), Broward County (USA), and Santos (Brazil)". American Journal of Climate Change, 2017, v.6, p. 403-424. DOI: <a href="https://file.scirp.org/pdf/AJCC_2017062815382277.pdf">10.4236/ajcc.2017.62021</a>
+          </li>
+          <li>
+              Moreira, F de A; Nunes, LH  Panorama dos estudos sobre adaptação às mudanças climáticas globais entre 1999 e 2013 por meio da análise da revista “Mitigation and Adaptation Strategies for Global Change”.  Revista Brasileira de Climatologia, 2017, v.20, n. 13, p. 29-51. DOI:<a href="http://revistas.ufpr.br/revistaabclima/article/view/50872"> 10.5380/abclima.v20i0.50872. </a>
+          </li>
+          <li>
+              Impacts of rainfall and vulnerabilities in the metropolitan region of Baixada Santista, Brazil. Moriera, F. A.; Rampazo, N. A. M.; Castellano, M. S. Accepted for publication at "International Journal on Safety and Security Engineering". 2017
+          </li>
           <li>
             Marengo J, Nunes LH, Souza CR, Harari J, Muller-Karger F, Greco R, Hosokawa E, Tabushi E, Merril SB, Reynolds CJ, Pelling M, Alves L, Aragao L, Chou SC, Moreira F, Paterson S, Lockman J, Gray A. "A Globally-Deployable Strategy for Co-Development of Adaptation Preferences to Sea-Level Rise: The Public Participation Case of Santos, Brazil", Natural Hazards." Natural Hazards, 09 April 2017, <a href="https://link.springer.com/article/10.1007/s11069-017-2855-x">DOI 10.1007/s11069-017-2855-x</a>
           </li>
           <li>
             Paterson S., Pelling M., Hidalgo Nunes L., de Araújo Moreira F., Guida K., Marengo J., "Size does matter: city scale and the asymmetries of climate change adaptation in three coastal towns." Geoforum Journal Volume 81, 2017, Pages 109–119 <a href="http://dx.doi.org/10.1016/j.geoforum.2017.02.014">http://dx.doi.org/10.1016/j.geoforum.2017.02.014</a>
           </li>
+        </ul>
+        <h3>2016</h3>
+        <ul>
           <li>
-            Kartez, Jack D. Ph.D. and Merrill, Samuel B. Ph.D. (2016) "Climate Adaptation Finance Mechanisms: New Frontiers For Familiar Tools," Journal of Ocean and Coastal Economics: Vol. 3: Iss. 2, Article 4.
-DOI: <a href="http://dx.doi.org/10.15351/2373-8456.1066" target="_blank">http://dx.doi.org/10.15351/2373-8456.1066</a>
+            Kartez, Jack D. Ph.D. and Merrill, Samuel B. Ph.D. (2016) "Climate Adaptation Finance Mechanisms: New Frontiers For Familiar Tools," Journal of Ocean and Coastal Economics: Vol. 3: Iss. 2, Article 4. DOI: <a href="http://dx.doi.org/10.15351/2373-8456.1066" target="_blank">http://dx.doi.org/10.15351/2373-8456.1066</a>
           </li>
           <li>
             Merrill S., Kartez, J., Langbehn, K., Muller-Karger, F., Reynolds, C., "Identifying Stakeholder Values and Priorities for Adaptation Planning and Finance: A Florida Case Study", Journal of Environmental Values (submitted Oct 2016)
@@ -26,11 +36,48 @@ DOI: <a href="http://dx.doi.org/10.15351/2373-8456.1066" target="_blank">http://
         <h3>2017</h3>
         <ul>
           <li>
+              Working with Social Factors and Values to Support Adaptation Planning and Public Finance. Reynolds,C.; Torres,H.; Metz,D. Sept. 2017, American Planning Association - Florida Annual Conference, Daytona, FL.USA
+          </li>
+          <li>
+              Perceptions, Priorities and Public Finance: How Values and Communications Shape Support for Adaptation and Funding. Reynolds, C., Magee, J., Lewis, D. August 2017, APA FL Webinar. https://www.youtube.com/watch?v=NoqnlMaxNdE
+          </li>
+          <li>
+              Values and Preferences in Adaptation Planning: insights from the Metropole Project.
+Nunes, L.H., Greco, R., 28 June 2017, 25th. International Congress of History of
+Science and Technology, Rio de Janeiro, Brazil.
+          <li>
+              Capacidade adaptativa para mudança climática, com ênfase na elevação do nível do mar: o caso de Santos, SP. Nunes, L.H.30, June, 2017, XVII Simpósio Brasileiro de Geografia Física Aplicada and  I Congresso Nacional de Geografia Física, Campinas, SP. Brasil.
+          </li>
+          <li>
+              Avaliação da capacidade adaptativa (ACI) no município de Santos/SP a partir das mudanças climáticas. Moreira, F. A.; Nunens, L. H. ; Patterson, S.; Pelling, M.; Marengo, J.A. XVII June 2017 Simpósio Brasileiro de Geografia Física Aplicada. Campinas, Brazil.
+          </li>
+          <li>
+              METROPOLE: Uma estrutura integrada para analisar tomada de decisão local e capacidade adaptativa para mudança ambiental de grande escala: estudos de caso de comunidades no Brasil, Reino Unido e Estados Unidos. Nunes, L.H. (June 13, 2017). Meeting at the Secretariat of Environment of Santos
+          </li>
+          <li>
+              Impacts of rainfall and vulnerabilities in the Metropolitan Region of Baixada Santista, Brazil. Moreira, F. A.; Rampazo, N. A. M.; Castellano, M. S. 5th International Conference on Disaster Management and Human Health: Reducing Risk, Improving Outcomes. Seville, Spain. June 2017.
+          </li>
+          <li>
+              Spatio-Temporal Changes of Rainfall in São Paulo, Brazil (1973-2012): A Gamma Distribution and Cluster Analysis. Gabriel, G.H., Nunes, L.H., 19th International Conference on Geography, Urban and Environmental Studies. Paris, France, May 2017, Abstract: International Journal of Environmental and Ecological Engineering, 2017. Vol 4. p. 86-86. (https://waset.org/abstracts/71373)
+          </li>
+          <li>
+              Public Finance Research Update to Broward County Climate Change Task Force, May 2017, Reynolds, C., Torres, H., Muller-Karger, F., Fort Lauderdale, FL, USA.
+          </li>
+          <li>
+              Changes in Extreme Precipitation Events in the State of São Paulo, Brazil. Gabriel, G.H., Nunes, L.H. 22, April 2017, Ninth International Conference on Climate Change: Impacts &amp; Responses, Cambridge, UK, 21-22 April 2017.
+          </li>
+          <li>
+              Climate Change and Adaptive Capacity: Linking Research and Decision making. Moreira, F. A.; Nunes, L. H. ; Patterson, S.; Pelling, M. (April 2017). Poster presentation, Ninth International Conference on Climate Change: Impacts and Responses and the Climate Change: Impacts and Responses Research Network. Cambridge, UK.
+          </li>
+          <li>
             <a href="files/Torres_posterMETROPOLE_3-17_v5.pdf">The Role of Societal Values in Community Adaptation to Natural Hazard Risks: Highlights from an International Case Study. Torres, H., Muller-Karger, F., Kartez, J., Pelling, M., Marengo, J., and Reynolds, C.J. (March 20, 2017). Poster Presentation, University of South Florida Graduate Research Symposium. Tampa, Florida. </a>
           </li>
         </ul>
         <h3>2016</h3>
         <ul>
+          <li>
+              -Adaptive capacity in Santos (Capacidade adaptativa em Santos). Moriera, F. A. City of Santos, Brazil. December 2016
+          </li>
           <li>
             AGU 2016: Presentation GC33E-03: Stakeholder Choices in Adaptation and Public Finance Planning for Coastal Hazard Mitigation in a Changing World: Highlights from Case Studies in Santos, Brazil, Broward County, FL, US and Selsey, UK, F. Muller-Karger, 14, Dec. 2016
           </li>
@@ -78,6 +125,9 @@ DOI: <a href="http://dx.doi.org/10.15351/2373-8456.1066" target="_blank">http://
         <h3>2015</h3>
         <ul>
           <li>
+              -Evolution of research on adaptation to global climate change between 1999 and 2013: case study of the magazine 'Mitigation and Adaptation Strategies for Global Change'. MOREIRA, F. A.; NUNES, L. H.  The World Multidisciplinary Earth Sciences Symposium – Prague, Czech Republic. September 2015
+          </li>
+          <li>
             Projeto METRÓPOLE: Uma estrutura Integrada para analisar a vulnerabilidade e a capacidade adaptativa às mudanças climáticas e elevação do nível do mar de comunidades no Brasil, Reino Unido e Estados Unidos, by Lincoln Alves, I Simpósio Internacional de Climatologia, Natal, RN, 13-16 October 2015
           </li>
           <li>
@@ -104,6 +154,19 @@ DOI: <a href="http://dx.doi.org/10.15351/2373-8456.1066" target="_blank">http://
           </li>
           <li>
             A database of Severe Impacts in the Coast of Southeastern Brazil by L. Nunes, EMECS 10-MEDCOAST 2013 Joint Conference Global Congress on Integrated Coastal Management: Lessons Learned to Address, Marmaris, Turquia, 2013.
+          </li>
+        </ul>
+        <h2 id="media">Media</h2>
+        <h3>2017</h3>
+        <ul>
+          <li>
+              Radio Difusora AM, Jundiaí, SP: Novas informações do Projeto Metropole: impactos da elevação do nível do mar em Santos, SP - 27 June 2017
+          </li>
+        </ul>
+        <h3>2016</h3>
+        <ul>
+          <li>
+              Radio Difusora AM, Jundiaí, SP: Projeto Metropole - Impactos da elevação do nível do mar em Santos, SP - 06 July 2016
           </li>
         </ul>
       </div>
@@ -148,7 +211,6 @@ DOI: <a href="http://dx.doi.org/10.15351/2373-8456.1066" target="_blank">http://
           </li>
         </ul>
       </div>
-
     </div>
   </div>
 <?php include('footer.php'); ?>
