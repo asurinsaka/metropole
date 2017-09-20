@@ -61,14 +61,25 @@
 				<p><a href="https://link.springer.com/article/10.1007/s11069-017-2855-x" target="_blank">A Globally-Deployable Strategy for Co-Development of Adaptation Preferences to Sea-Level Rise: The Public Participation Case of Santos, Brazil</a>, <i>Natural Hazards</i>, April 2017.</p>
 				<p><a href="http://www.sciencedirect.com/science/article/pii/S0016718517300507" target="_blank">Size does matter: city scale and the asymmetries of climate change adaptation in three coastal towns</a>, <i>Geoforum Journal</i>, January 2017.</p>
 				<p><a href="http://cbe.miis.edu/joce/vol3/iss2/4/" target="_blank">Climate Adaptation Finance Mechanisms: New Frontiers For Familiar Tools</a>, <i>Journal of Ocean and Coastal Economics</i>.</p>
-				<p><strong>Collaborations between universities, private sector and local government deliver tangible benefits to society – locally and globally.</strong></p>
 			</div>
 		</div>
 		<div class="row">
 			<div class="col-md-12">
-				<img class="img-responsive" alt="team logo" src="image/partner_logos.jpg" style="width:936px">
+				<p><strong>Latest Presentation for Practitioners</strong></p>
+				<p>American Planning Association -- Florida Chapter</p>
+				<p>Annual Conference session Sept. 7, 8:30-9:45, 2017</p>
+				<p>
+					<a href="files/Sept 7 830 METROPOLE.pdf">"Working with Social Factors and Values to Support Adaptation Planning and Public Finance"</a>
+				</p>
 			</div>
 		</div>
+		<div class="row">  <!-- sub-footer -->
+			<div class="col-md-12">
+				<p><strong>Collaborations between universities, private sector and local government deliver tangible benefits to society – locally and globally.</strong></p>
+
+				<img class="img-responsive" alt="team logo" src="image/partner_logos.jpg" style="width:936px">
+			</div>
+		</div>  <!-- / row sub-footer -->
 	</div>
 </div>
 
