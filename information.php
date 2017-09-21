@@ -39,7 +39,7 @@
               Working with Social Factors and Values to Support Adaptation Planning and Public Finance. Reynolds,C.; Torres,H.; Metz,D. Sept. 2017, American Planning Association - Florida Annual Conference, Daytona, FL.USA
           </li>
           <li>
-              Perceptions, Priorities and Public Finance: How Values and Communications Shape Support for Adaptation and Funding. Reynolds, C., Magee, J., Lewis, D. August 2017, APA FL Webinar. <a href="https://www.youtube.com/watch?v=NoqnlMaxNdE">youtube.com/watch?v=NoqnlMaxNdE</a>
+              Perceptions, Priorities and Public Finance: How Values and Communications Shape Support for Adaptation and Funding. Reynolds, C., Magee, J., Lewis, D. August 2017, APA FL Webinar. <!-- <a href="https://www.youtube.com/watch?v=NoqnlMaxNdE">youtube.com/watch?v=NoqnlMaxNdE</a> -->
           </li>
           <li>
               Values and Preferences in Adaptation Planning: insights from the Metropole Project.
