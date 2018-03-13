@@ -4,6 +4,15 @@
     <div class="col-md-8">
       <div class="container-fluid">
         <h2 id="articles">Articles</h2>
+        <h3>2018</h3>
+        <ul>
+          <li>
+            Merrill, S., Kartez, J., Langbehn,K., Muller Karger F., Reynolds, C., 2018 
+            "Who Should Pay for Climate Adaptation?: 
+            Public Attitudes and Financing of Flood Protection in Florida" 
+            Environmental Values (in press.)
+          </li>
+        </ul>
         <h3>2017</h3>
         <ul>
           <li>
@@ -35,6 +44,13 @@
         <h2 id="presentations">Presentations and Posters</h2>
         <h3>2017</h3>
         <ul>
+          <li>
+            <a href="http://www.floridaleagueofcities.com/docs/default-source/CMRI/Dec-17-Presentations/reynolds-flc-2017.pdf?sfvrsn=4">
+              "Understanding Community Values to Support Resiliency Improvements," 
+            </a>
+            Reynolds, C.J., Keynote Address, Florida League of Cities Annual Research Symposium, 
+            Dec. 2017, Orlando, FL
+          </li>
           <li>
               Working with Social Factors and Values to Support Adaptation Planning and Public Finance. Reynolds,C.; Torres,H.; Metz,D. Sept. 2017, American Planning Association - Florida Annual Conference, Daytona, FL.USA
           </li>
