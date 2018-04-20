@@ -53,7 +53,7 @@
 		</div>
 
 		<div class="row">
-			<div class="col-md-12">
+			<div class="col-md-14">
 				<p><strong>Read Our Latest Articles</strong></p>
 				<p>
 					Merrill, S., Kartez, J., Langbehn,K., Muller Karger F., Reynolds, C., 2018 
@@ -70,8 +70,8 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-md-12">
-				<p><strong>Presentations for Elected Officials</strong></p>
+			<div class="col-md-14">
+				<p><strong>Presentations for Practitioners and Elected Officials</strong></p>
 				<p>
 					<a href="http://www.floridaleagueofcities.com/docs/default-source/CMRI/Dec-17-Presentations/reynolds-flc-2017.pdf?sfvrsn=4" >
 						"Understanding Community Values to Support Resiliency Improvements," 
@@ -80,14 +80,12 @@
 					Florida League of Cities Annual Research Symposium, Dec. 2017, Orlando, FL
 				</p>
 			</div>
-		</div>
-		<div class="row">
-			<div class="col-md-12">
-				<p><strong>Latest Presentation for Practitioners</strong></p>
-				<p>American Planning Association -- Florida Chapter</p>
+					<p>American Planning Association -- Florida Chapter</p>
 				<p>Annual Conference session Sept. 7, 8:30-9:45, 2017</p>
 				<p>
 					<a href="files/Sept 7 2017 830 METROPOLE.pdf">"Working with Social Factors and Values to Support Adaptation Planning and Public Finance"</a>
+				</p>
+				</p>
 				</p>
 			</div>
 		</div>
